@@ -1,0 +1,7 @@
+variable "vnetpeering" {
+
+}
+
+# variable "vnetid" {
+
+# }
